@@ -37,6 +37,8 @@ Not yet processed:
 - persons
 - images
 
+[pushkin-artefact-objects-MA.xlsx](https://github.com/infoculture/artefactrudata/blob/main/data/subjects/pushkin-artefact-objects-MA.xlsx) — dataset with the preliminary results of image recognition using Microsoft Azure. The images belong to the Pushkin Museum objects from the Artefact.app database.
+
 ## Licenses
 
 Source code and packaged data licensed under CC0-1.0 License. 
