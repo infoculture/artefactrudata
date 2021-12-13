@@ -1,9 +1,5 @@
 # Artefact.app dataset and source code
-##English
-
-
-
-### Source code
+## Source code
 
 All data collected using APIBackuper tool (https://github.com/ruarxive/apibackuper) using apibackuper.cfg 
 for each dataset.
@@ -18,7 +14,7 @@ To download files from original source use command **getfiles** with apibackuper
 `apibackuper getfiles`. It will store all files to the "storage/files" directory.
 
 
-### Datasets
+## Datasets
 Data from Artefact.app project of the Ministry of Culture of Russian federation.
 Collected for educational and scientific purposes by Infoculture (https://infoculture.ru) team.
 
@@ -41,7 +37,7 @@ Not yet processed:
 - persons
 - images
 
-### Licenses
+## Licenses
 
 Source code and packaged data licensed under CC0-1.0 License. 
 Original content licensed under following terms https://artefact.app/terms.html
